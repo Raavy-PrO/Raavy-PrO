@@ -31,4 +31,5 @@
 <div align="center">
   <p>Obrigado, por visitar o meu perfil! :heart:</p>
   <p>Thanks, for visiting my profile! :heart:</p>
+  <img align="center" src="https://komarev.com/ghpvc/?username=Raavy-PrO&label=Profile%20views&color=0e75b6&style=flat" alt="Raavy-PrO" />
   </div>
