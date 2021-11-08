@@ -27,6 +27,12 @@
   
   
 ---
+  <div align="center">
+    <h2 align="center">Status</h2>
+    <p align="center">👑 Atualmente estou criando...</p>
+    <img height="180" width="180" src="https://i.imgur.com/djIEWvw.gif">
+  </div>
+  
   
 <div align="center">
   <p>Obrigado, por visitar o meu perfil! :heart:</p>
