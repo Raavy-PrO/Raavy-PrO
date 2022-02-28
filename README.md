@@ -17,15 +17,15 @@
   
   <div style="display: inline_block" align="center">
     <h2 align="center">Redes Sociais</h2>
-    <a href="https://www.instagram.com/thalisxds/"><img align="center" alt="Mat-HTML" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/thalisxde/"><img align="center" alt="Mat-HTML" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pintor-de-tinta-42aa40223/"><img align="center" alt="Mat-HTML" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
   
 ---
   <div align="center">
-    <h2 align="center">Status</h2>
-    <p align="center">Nada...</p>
+    <h2 align="center">Leia Abaixo</h2>
+    <p align="center">Segue noix ae Please!1</p>
     <img height="180" width="180" src="https://i.imgur.com/djIEWvw.gif">
   </div>
   
