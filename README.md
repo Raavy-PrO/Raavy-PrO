@@ -25,7 +25,7 @@
 ---
   <div align="center">
     <h2 align="center">Leia Abaixo</h2>
-    <p align="center">Segue noix ae Please!1</p>
+    <p align="center">Famoso curioso da programação aprende um pouco de tudo, Segue noix ae Please!1</p>
     <img height="180" width="180" src="https://i.imgur.com/djIEWvw.gif">
   </div>
   
